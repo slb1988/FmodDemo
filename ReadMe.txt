@@ -1,4 +1,4 @@
 
 
-µ±ÄãÔÚFMODÄãÉè¼ÆºÃºó£¬½«EVENTÊÂ¼þ·ÅÈëÄãÐèÒªµÄbankÀï£¬È»ºóµãFILE --BUILD ÔÙµãFILE--EXPORT GUIDS£¬ÕâÊ±ÄãÐèÒªÈ¥FMOD¹ÙÍøÏÂÔØ¶ÔÓ¦UNITYµÄ²å¼þ£¬°²×°ºÃºóUNITYÉÏ»á³öÏÖFMOD×ÖÑù£¬µã»÷µ¼ÈëBANK£¬ÕâÊ±Ñ¡ÔñÄãFMOD¹¤³ÌÀïµÄBUILDÎÄ¼þ¼Ð£¬Äã»á·¢ÏÖFMODµÄ×ÊÔ´¶¼³öÏÖÁË£¬ÔÚÖ÷ÉãÏñ»úÉÏ¼ÓÔØFMOD listener È»ºóÑ¡ÔñÄãÐèÒªÌí¼ÓÒôÐ§µÄÎï¼þ£¬ÎªÖ®¼ÓÔØÒ»¸öFMOD studio event emitter°ÑÄã×öºÃµÄÒôÐ§ÊÂ¼þ·Åµ½ASSETÀï¾Í¿ÉÒÔÁË£¬ÈçÓÐ²»Ã÷°×¿ÉÒÔÁª  Íþ  ÐÅ  tuoerye
+å½“ä½ åœ¨FMODä½ è®¾è®¡å¥½åŽï¼Œå°†EVENTäº‹ä»¶æ”¾å…¥ä½ éœ€è¦çš„banké‡Œï¼Œç„¶åŽç‚¹FILE --BUILD å†ç‚¹FILE--EXPORT GUIDSï¼Œè¿™æ—¶ä½ éœ€è¦åŽ»FMODå®˜ç½‘ä¸‹è½½å¯¹åº”UNITYçš„æ’ä»¶ï¼Œå®‰è£…å¥½åŽUNITYä¸Šä¼šå‡ºçŽ°FMODå­—æ ·ï¼Œç‚¹å‡»å¯¼å…¥BANKï¼Œè¿™æ—¶é€‰æ‹©ä½ FMODå·¥ç¨‹é‡Œçš„BUILDæ–‡ä»¶å¤¹ï¼Œä½ ä¼šå‘çŽ°FMODçš„èµ„æºéƒ½å‡ºçŽ°äº†ï¼Œåœ¨ä¸»æ‘„åƒæœºä¸ŠåŠ è½½FMOD listener ç„¶åŽé€‰æ‹©ä½ éœ€è¦æ·»åŠ éŸ³æ•ˆçš„ç‰©ä»¶ï¼Œä¸ºä¹‹åŠ è½½ä¸€ä¸ªFMOD studio event emitteræŠŠä½ åšå¥½çš„éŸ³æ•ˆäº‹ä»¶æ”¾åˆ°ASSETé‡Œå°±å¯ä»¥äº†
 
